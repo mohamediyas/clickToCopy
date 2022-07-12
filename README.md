@@ -1,0 +1,2 @@
+# clickToCopy
+Created with CodeSandbox
