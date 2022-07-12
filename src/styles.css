@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  text-align: center;
+}
+
+p {
+  font-size: 10px;
+  text-align: center;
+  font-weight: 500;
+  letter-spacing: 2px;
+  border: 0.5px solid #eee;
+  padding: 5px 7px;
+  width: 240px;
+  margin: auto;
+  border-radius: 12px;
+  margin-top: 12px;
+  transition: all 2s;
+  visibility: hidden;
+  opacity: 0;
+}
